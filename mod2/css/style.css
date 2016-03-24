@@ -1,0 +1,24 @@
+body {
+
+	background-color: gray;
+	font-family: Courier, Arial, "Times New Roman";
+}
+h1 {
+	font-size:175%;
+}
+
+div {
+	font-size:125%;
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
