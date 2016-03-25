@@ -3,12 +3,21 @@ body {
 	background-color: gray;
 	font-family: Courier, Arial, "Times New Roman";
 }
+* {
+	box-sizing: border-box;
+}
 h1 {
-	font-size:175%;
+	font-size: 175%;
+	margin-bottom: 15px;
+	text-align: center;
 }
 
 div {
 	font-size:125%;
+}
+
+.row {
+	width: 100%;
 }
 
 @media (min-width: 992px) {
