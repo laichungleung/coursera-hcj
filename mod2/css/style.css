@@ -60,6 +60,7 @@ h2 {
   	margin-left: 1px;
   	margin-bottom: auto;
   	color: black;
+		overflow: scroll;
 }
 .content {
 	position: absolute;
@@ -125,7 +126,7 @@ h2 {
    	padding: 5px;
    	position: relative;
 
-   	
+
   }
   .col-md-1 {
     width: 8.33%;
