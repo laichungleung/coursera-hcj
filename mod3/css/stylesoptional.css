@@ -25,6 +25,7 @@ body {
   	margin-left: 1px;
   	margin-bottom: 2px;
 		overflow: scroll;
+    z-index:1;
 }
 
 .row {
