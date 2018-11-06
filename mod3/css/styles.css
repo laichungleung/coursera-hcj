@@ -1,8 +1,16 @@
 body {
-  border: 0;
+	background-color: white;
+	font-family: Courier, Arial, "Times New Roman";
 }
 
-section {
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.section {
   background-color: #D5D5D5;
 }
 
@@ -19,8 +27,9 @@ section {
 }
 div h3 {
   text-align:center;
+
 }
 
 p {
-  height: 1000px;
+  height: 1000px
 }
