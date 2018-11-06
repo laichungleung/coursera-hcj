@@ -1,0 +1,26 @@
+body {
+  border: 0;
+}
+
+section {
+  background-color: #D5D5D5;
+
+}
+.navbar-brand h1 {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: bold;
+  vertical-align: middle;
+
+}
+#collapsable-nav {
+  clear: both;
+}
+div h3 {
+  text-align:center;
+}
+
+p {
+  height: 1000px;
+}
